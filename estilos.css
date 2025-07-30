@@ -1,0 +1,6 @@
+
+body { font-family: Arial, sans-serif; background: #fff0f5; margin: 0; padding: 0; }
+header { background: #e75480; padding: 1em; color: white; text-align: center; }
+nav a { margin: 0 1em; color: white; text-decoration: none; font-weight: bold; }
+footer { background: #e75480; color: white; text-align: center; padding: 1em; margin-top: 2em; }
+button { background: #ff69b4; border: none; padding: 10px; border-radius: 10px; box-shadow: 0 4px #c71585; }
